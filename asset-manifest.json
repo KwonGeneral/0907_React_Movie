@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/KwonGeneral/React_Movie.git/static/css/main.6350e78b.chunk.css",
-    "main.js": "/KwonGeneral/React_Movie.git/static/js/main.3b1c314c.chunk.js",
-    "main.js.map": "/KwonGeneral/React_Movie.git/static/js/main.3b1c314c.chunk.js.map",
+    "main.js": "/KwonGeneral/React_Movie.git/static/js/main.ef64b215.chunk.js",
+    "main.js.map": "/KwonGeneral/React_Movie.git/static/js/main.ef64b215.chunk.js.map",
     "runtime-main.js": "/KwonGeneral/React_Movie.git/static/js/runtime-main.a0092129.js",
     "runtime-main.js.map": "/KwonGeneral/React_Movie.git/static/js/runtime-main.a0092129.js.map",
     "static/js/2.cd77bd45.chunk.js": "/KwonGeneral/React_Movie.git/static/js/2.cd77bd45.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.a0092129.js",
     "static/js/2.cd77bd45.chunk.js",
     "static/css/main.6350e78b.chunk.css",
-    "static/js/main.3b1c314c.chunk.js"
+    "static/js/main.ef64b215.chunk.js"
   ]
 }
